@@ -4,3 +4,4 @@ git program 4-Remote repository
 
 This repository demonstrates Git cloning,
 pulling and remote repository collaboration.
+Learning Git pull command practically.
